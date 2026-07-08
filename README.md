@@ -1,4 +1,6 @@
 ### Мониторинг рынка труда 
+[Открыть интерактивный отчет Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjBiOTJlNjMtNjk0Ni00OTUxLTk0MTgtYmQxZjZiNDRkM2E5IiwidCI6ImFmZDZiMTk4LTMxZjEtNDM1OC1iYjA0LWIxODE5NWViOWQwMiIsImMiOjEwfQ%3D%3D)
+
 ![ВекторФарм 1](ВекторФарм_1.png)
 ![ВекторФарм 2](ВекторФарм_2.png)
 
